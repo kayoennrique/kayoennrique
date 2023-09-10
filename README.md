@@ -12,7 +12,7 @@ Student and a great technology enthusiast, I am constantly updated with the late
   <img align="center" alt="sass" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div><br/>
 
-###  - Git Stats📬:
+###  - Git Stats 📊:
 ![Kayo Ennrique GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=synthwave)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=donut)](https://github.com/kayoennrique/github-readme-stats)
 
