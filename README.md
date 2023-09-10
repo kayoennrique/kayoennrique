@@ -1,6 +1,6 @@
-## Olá! Eu sou Kayo Ennrique👋
+## Hello! I'm Kayo Ennrique👋
 
-Estudante e um grande entusiasta de tecnologia, estou constantemente atualizado com as mais recentes inovações para aprimorar minha expertise e paixão pela área.
+Student and a great technology enthusiast, I am constantly updated with the latest innovations to enhance my expertise and passion for the area.
 
 ### - Tech Stack 📱:
 <div style="display: inline_block"><br/>
