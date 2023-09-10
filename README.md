@@ -13,8 +13,9 @@ Student and a great technology enthusiast, I am constantly updated with the late
 </div><br/>
 
 ###  - Git Stats📬:
+![Kayo Ennrique GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=synthwave)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=donut)](https://github.com/kayoennrique/github-readme-stats)
-![Kayo Ennrique GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=synthwave)
+
 
 ###  - Contact info 📬:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayoennrique/)
