@@ -2,9 +2,6 @@
 
 Estudante e um grande entusiasta de tecnologia, estou constantemente atualizado com as mais recentes inovações para aprimorar minha expertise e paixão pela área.
 
-###  - Git Stats📬:
-![Kayo Ennrique GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=synthwave)
-
 ### - Tech Stack 📱:
 <div style="display: inline_block"><br/>
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -14,6 +11,10 @@ Estudante e um grande entusiasta de tecnologia, estou constantemente atualizado 
   <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="sass" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div><br/>
+
+###  - Git Stats📬:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=donut)](https://github.com/kayoennrique/github-readme-stats)
+![Kayo Ennrique GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=synthwave)
 
 ###  - Contact info 📬:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayoennrique/)
