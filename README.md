@@ -1,4 +1,4 @@
-## <Hello! I'm Kayo Ennrique👋>
+## </Hello! I'm Kayo Ennrique👋>
 
 Student and a great technology enthusiast, I am constantly updated with the latest innovations to enhance my expertise and passion for the area.
 
