@@ -1,4 +1,4 @@
-## </Hello, my name is Kayo Ennrique>
+## </Hello, I'm Kayo Ennrique>
 
      'Passionate software developer dedicated to creating innovative and human-centered solutions.',
      'Specialized in front-end web development.',
