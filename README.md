@@ -1,25 +1,4 @@
-
-const infos = {
-  name: 'Gabriella Borges',
-  country: 'Brazil',
-  status: 'Software Engineering Student',
-  profession: 'Front-End Developer',
-  skills: [
-     'communication',
-     'organization',
-     'creativity'
-   ]
-}
-
-function description(){
-     return [
-     'Student and a great technology enthusiast, I am constantly updated with the latest innovations to enhance my expertise and passion for the area.'
-     'Passionate software developer dedicated to creating innovative and human-centered solutions.',
-     'Specialized in front-end web development.',
-     'Committed to delivering exceptional user experiences through well-organized projects.'    
-   ];
-}
-
+## </Hello, my name is Kayo Ennrique>
 
 ### - Tech Stack 📱:
 <div style="display: inline_block"><br/>
