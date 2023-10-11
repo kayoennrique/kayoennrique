@@ -1,4 +1,4 @@
-## const infos = {
+## 'const infos = {
   name: 'Kayo Ennrique Pereira',
   country: 'Brazil',
   status: 'Software Engineering Student',
@@ -18,7 +18,7 @@ function description(){
      'Committed to delivering exceptional user experiences through well-organized projects.'
     
    ];
-}
+}'
 
 Student and a great technology enthusiast, I am constantly updated with the latest innovations to enhance my expertise and passion for the area.
 
