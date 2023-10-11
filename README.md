@@ -13,14 +13,13 @@ const infos = {
 
 function description(){
      return [
-
+     'Student and a great technology enthusiast, I am constantly updated with the latest innovations to enhance my expertise and passion for the area.'
      'Passionate software developer dedicated to creating innovative and human-centered solutions.',
      'Specialized in front-end web development.',
-     'Committed to delivering exceptional user experiences through well-organized projects.'
-    
+     'Committed to delivering exceptional user experiences through well-organized projects.'    
    ];
 }
-Student and a great technology enthusiast, I am constantly updated with the latest innovations to enhance my expertise and passion for the area.
+
 
 ### - Tech Stack 📱:
 <div style="display: inline_block"><br/>
