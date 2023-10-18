@@ -1,8 +1,30 @@
-## </Hello, I'm Kayo Ennrique>
+# Welcome!🚀
 
-     'Passionate software developer dedicated to creating innovative and human-centered solutions.',
-     'Specialized in front-end web development.',
-     'Committed to delivering exceptional user experiences through well-organized projects.'
+👤 About:
+
+ ``` javascript
+ const infos = {
+   name: 'Kayo Ennrique Pereira',
+   country: 'Brazil',
+   status: 'Software Developer Student',
+   profession: 'Front-End Developer',
+   skills: [
+      'communication',
+      'organization',
+      'creativity'
+    ]
+}
+
+function description(){
+      return [
+
+      'Passionate software developer dedicated to creating innovative and human-centered solutions.',
+      'Specialized in front-end web development.',
+      'Committed to delivering exceptional user experiences through well-organized projects.'
+     
+    ];
+}
+```
 
 ### - Tech Stack 📱:
 <div style="display: inline_block"><br/>
@@ -13,7 +35,7 @@
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="sass" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-       ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
 </div><br/>
 
 ###  - Git Stats 📊:
