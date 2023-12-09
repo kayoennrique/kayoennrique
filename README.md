@@ -22,7 +22,7 @@ function description(){
       'Specialized in front-end web development.',
       'Committed to delivering exceptional user experiences through well-organized projects.'
      
-    ];
+    ]
 }
 ```
 
