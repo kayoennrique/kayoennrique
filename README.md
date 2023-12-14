@@ -12,7 +12,7 @@
       'communication',
       'organization',
       'creativity'
-    ]
+    ];
 }
 
 function description(){
@@ -20,7 +20,7 @@ function description(){
       'Passionate software developer dedicated to creating innovative and human-centered solutions.',
       'Specialized in front-end web development.',
       'Committed to delivering exceptional user experiences through well-organized projects.'
-     ]
+     ];
 }
 ```
 
