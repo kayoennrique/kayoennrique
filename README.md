@@ -12,7 +12,7 @@
       'communication',
       'organization',
       'creativity'
-    ];
+    ]
 }
 
 function description(){
