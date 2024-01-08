@@ -17,7 +17,7 @@
 
 function description(){
       return [
-      'Passionate software developer dedicated to creating innovative and human-centered solutions.',
+      'Passionate software developear dedicated to creating innovative and human-centered solutions.',
       'Specialized in front-end web development.',
       'Committed to delivering exceptional user experiences through well-organized projects.'
      ]
@@ -29,8 +29,9 @@ function description(){
 
 ###  - Git Stats 📊:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=compact)](https://github.com/kayoennrique/github-readme-stats)<br/>
 ![Kayo Ennrique GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=discord_old_blurple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=compact)](https://github.com/kayoennrique/github-readme-stats)<br/>
+
 
 ### - Tech Stack 📱:
 <div style="display: inline_block"><br/>
