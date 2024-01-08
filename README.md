@@ -26,13 +26,14 @@ function description(){
 
 
 </div><br/>
+
 ###  - Git Stats 📊:
 
 ![Kayo Ennrique GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=discord_old_blurple)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=compact)](https://github.com/kayoennrique/github-readme-stats)
 
 ### - Tech Stack 📱:
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
