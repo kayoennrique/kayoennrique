@@ -29,7 +29,7 @@ function description(){
 
 ###  - Git Stats 📊:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=compact)](https://github.com/kayoennrique/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=compact)](https://github.com/kayoennrique/github-readme-stats)<br/>
 ![Kayo Ennrique GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=discord_old_blurple)
 
 ### - Tech Stack 📱:
