@@ -53,7 +53,7 @@ function description(){
   <img align="center" alt="sass" height="60" width="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="tailwind" height="60" width="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="styledcomponents" height="30" width="60" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img align="center" alt="bootstrap" height="60" width="300" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="bootstrap" height="60" width="150" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="mui" height="60" width="30" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 
 ###  - Contact info 📬:
