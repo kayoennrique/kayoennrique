@@ -29,8 +29,13 @@ function description(){
 
 ###  - Git Stats 📊:
 
-![Kayo Ennrique GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=discord_old_blurple)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=compact)](https://github.com/kayoennrique/github-readme-stats)
+![Kayo Ennrique GitHub stats]
+<div align="center">
+  <a href="https://github.com/kayoennrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=radical"/>
+[![Top Langs]
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=compact"/>
+</div>
 
 ### - Tech Stack 📱:
 <div style="display: inline_block">
