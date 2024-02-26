@@ -60,8 +60,5 @@ function description(){
 [![Hotmail](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kayo.ennrique@hotmail.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayoennrique/)
 
-![snake gif](https://github.com/kayoennrique/kayoennrique/blob/output/github-contribution-grid-snake.svg)
-
-
  
 
