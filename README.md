@@ -60,11 +60,7 @@ function description(){
 [![Hotmail](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kayo.ennrique@hotmail.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayoennrique/)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayoennrique/kayoennrique/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayoennrique/kayoennrique/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kayoennrique/kayoennrique/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/kayoennrique/kayoennrique/blob/output/github-contribution-grid-snake.svg)
 
 
  
