@@ -27,14 +27,6 @@ function description(){
 
 </div><br/>
 
-###  - Git Stats 📊:
-
-<div align="center">
-  <a href="https://github.com/kayoennrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayoennrique&show_icons=true&theme=radical" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoennrique&layout=compact" />
-</div>
-
 ### - Tech Stack 📱:
 <div style="display: inline_block">
   <img align="center" alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
